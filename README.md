@@ -12,7 +12,7 @@ npm start
 ```
 
 ## Requires
-[Disc Inventory](https://github.com/codrum/disc-inventory)
+Full installation of [Disc Inventory](https://github.com/codrum/disc-inventory)
 
 ## Usage
 
