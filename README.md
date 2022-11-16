@@ -11,6 +11,9 @@ npm install
 npm start
 ```
 
+## Requires
+[Disc Inventory](https://github.com/codrum/disc-inventory)
+
 ## Usage
 
 Website should be live at
