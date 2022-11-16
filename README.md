@@ -1,4 +1,4 @@
-# dmc-chat-client
+# disc-inventory
 
 This is a disc golf related React e-commerce SPA 
 
